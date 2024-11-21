@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-***Description***
+**Description**
 
-***Why***
+**Why**
 
-***Acceptance Criteria***
+**Acceptance Criteria**
 
-***Tasks***
+**Tasks**
 
-***Labels***
+**Labels**
 
-***Assignees***
+**Assignees**
